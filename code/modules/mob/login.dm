@@ -87,7 +87,6 @@
 			client.create_UI(src.type)
 
 		add_click_catcher()
-		update_action_buttons()
 
 		client.CAN_MOVE_DIAGONALLY = FALSE
 

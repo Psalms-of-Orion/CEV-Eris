@@ -176,7 +176,6 @@
 /obj/item/device/lighting/toggleable/flashlight/dropped(mob/user as mob)
 	if(light_direction)
 		set_dir(light_direction)
-	..()
 
 /obj/item/device/lighting/toggleable/flashlight/afterattack(atom/A, mob/user)
 	var/turf/T = get_turf(A)

@@ -85,7 +85,7 @@
 	department = DEPARTMENT_CIVILIAN
 	department_flag = SERVICE
 	faction = "CEV Eris"
-	total_positions = 1
+	total_positions = 2
 	spawn_positions = 1
 	supervisors = "the Club Manager"
 	selection_color = "#dddddd"
